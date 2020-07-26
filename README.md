@@ -8,6 +8,6 @@ Here is what I am working on !!!
 - 👯 I’m looking to collaborate on some cool projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python/Django, Algorithms
-- 📫 How to reach me: https://nabinchhetri.pm
+- 📫 How to reach me: https://nabinchhetri.com
 - 😄 Pronouns: Nabineo
 - ⚡ Fun fact: I can find bugs ):)
