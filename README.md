@@ -3,11 +3,11 @@
 
 
 Here is what I am working on !!!
-- 🔭 I’m currently working on Python/Django
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on PDevOps 
+- 🌱 I’m currently learning DevOps & CloudNative Technologies
 - 👯 I’m looking to collaborate on some cool projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Python/Django, Algorithms
+- 💬 Ask me about Linux, Bash Scripting, Docker & Kubernetes
 - 📫 How to reach me: https://nabinchhetri.com
 - 😄 Pronouns: Nabineo
 - ⚡ Fun fact: I can find bugs ):)
