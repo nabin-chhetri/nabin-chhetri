@@ -3,7 +3,7 @@
 
 
 Here is what I am working on !!!
-- 🔭 I’m currently working on PDevOps 
+- 🔭 I’m currently working on DevOps 
 - 🌱 I’m currently learning DevOps & CloudNative Technologies
 - 👯 I’m looking to collaborate on some cool projects
 - 🤔 I’m looking for help with ...
