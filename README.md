@@ -9,5 +9,4 @@ Here is what I am working on !!!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Linux, Bash Scripting, Docker & Kubernetes
 - 📫 How to reach me: https://nabinchhetri.com
-- 😄 Pronouns: Nabineo
 - ⚡ Fun fact: I can find bugs ):)
